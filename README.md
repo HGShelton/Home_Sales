@@ -2,6 +2,8 @@
 
 The analysis focused on examining home sale prices in California spanning the years 2019 to 2022. Google Colab and Spark were utilized for data ingestion and processing to address the specified inquiries.
 
+Data URL: https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.2/22-big-data/home_sales_revised.csv
+
 - The average price by year for a four-bedroom house sold fore each year.
   
     ![image](https://github.com/user-attachments/assets/6467dd9d-1289-4606-bd65-e743d2a8d881)
